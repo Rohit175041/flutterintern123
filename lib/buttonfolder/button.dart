@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'getxfile1.dart';
+import '../getxfile1.dart';
 
 class changeButton extends StatelessWidget {
    final controller = Get.put(MainController());

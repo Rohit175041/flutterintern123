@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutterintern/w2.dart';
-import 'package:flutterintern/w3.dart';
+import 'package:flutterintern/widgetfolder/w2.dart';
+import 'package:flutterintern/widgetfolder/w3.dart';
 
 // ignore: must_be_immutable
 class ChangeWidget extends StatelessWidget {
